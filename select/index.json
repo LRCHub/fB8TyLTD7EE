@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "RISE (ft. The Glitch Mob, Mako, and The Word Alive) | Worlds 2018 - League of Legends",
+  "base_artist": "League of Legends",
+  "createdAt": "2026-03-27T10:10:02.073971Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RISE (ft. The Glitch Mob, Mako, and The Word Alive)",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/01_RISE_(ft._The_Glitch_Mob,_Mako,_and_The_Word_Alive)_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RISE (ft. The Glitch Mob, Mako, and The Word Alive) Worlds 2018",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/02_RISE_(ft._The_Glitch_Mob,_Mako,_and_The_Word_Alive)_Worlds_2018_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RISE (ft. The Glitch Mob, Mako, and The Word Alive) | Worlds 2018 - League of Legends",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/03_RISE_(ft._The_Glitch_Mob,_Mako,_and_The_Word_Alive)___Worlds_2018_-_League_of_Le_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RISE (ft. The Glitch Mob, Mako, and The Word Alive) | Worlds 2018 - League of Legends",
+      "artist": "League of Legends",
+      "has_synced": true,
+      "path": "select/04_RISE_(ft._The_Glitch_Mob,_Mako,_and_The_Word_Alive)___Worlds_2018_-_League_of_Le_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RISE (ft. The Glitch Mob, Mako, and The Word Alive) | Worlds 2018 - League of Legends",
+      "artist": "Video • League of Legends",
+      "has_synced": true,
+      "path": "select/05_RISE_(ft._The_Glitch_Mob,_Mako,_and_The_Word_Alive)___Worlds_2018_-_League_of_Le_Video_•_League_of_Legends.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "RISE (ft. The Glitch Mob, Mako, and The Word Alive) | Worlds 2018 - League of Legends",
+      "artist": "Video, League of Legends",
+      "has_synced": true,
+      "path": "select/06_RISE_(ft._The_Glitch_Mob,_Mako,_and_The_Word_Alive)___Worlds_2018_-_League_of_Le_Video,_League_of_Legends.lrc"
+    }
+  ]
+}
