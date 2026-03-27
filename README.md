@@ -1,0 +1,71 @@
+# League of Legends – RISE (ft. The Glitch Mob, Mako, and The Word Alive) | Worlds 2018 - League of Legends
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.93] Welcome to the wild, no heroes and villains
+[00:21.21] Welcome to the war, we've only begun, so
+[00:26.54] Pick up your weapon and face it
+[00:29.28] There's blood on the crown, go and take it
+[00:31.90] You get one shot to make it out alive, so
+[00:52.40] 
+[00:37.48] Higher and higher you chase it
+[00:40.09] It's deep in your bones, go and take it
+[00:42.85] This is your moment, now is your time, so
+[01:03.35] 
+[00:48.44] Prove yourself and
+[00:50.19] RISE, RISE
+[00:53.44] Make 'em remember you
+[00:55.91] RISE
+[00:59.29] Push through hell and
+[01:01.05] RISE, RISE
+[01:04.23] They will remember you
+[01:06.72] RISE
+[01:08.72] 
+[01:10.04] Welcome to the climb up, reach for the summit
+[01:15.38] Visions pray that one false step lead the end, so
+[01:39.88] 
+[01:20.85] Higher and higher you chase it
+[01:23.38] It's deep in your blood, go and take it
+[01:26.04] This is your moment, take to the skies, go
+[01:47.04] 
+[01:31.54] Prove yourself and
+[01:33.59] RISE, RISE
+[01:36.69] Make 'em remember you
+[01:39.25] RISE
+[01:42.54] Push through hell and
+[01:44.31] RISE, RISE
+[01:47.43] They will remember you
+[01:50.06] RISE
+[01:52.06] 
+[01:54.75] So get along, so get along, go
+[01:57.75] Get along 'long go a lil' harder
+[02:00.30] So get along, so get along, go
+[02:03.06] Get along 'long go a lil' harder
+[02:19.06] 
+[02:05.10] And as you fight among the death beneath the dirt
+[02:10.29] Do you know yet?
+[02:12.96] Do you want it?
+[02:15.78] And when the giants call to ask you what you're worth
+[02:20.87] Do you know if
+[02:23.62] Win or die, you'll
+[02:32.62] 
+[02:27.13] Prove yourself and
+[02:29.17] RISE, RISE
+[02:32.46] Make 'em remember you
+[02:34.75] RISE
+[02:37.96] Push through hell and
+[02:39.91] RISE, RISE
+[02:43.16] They will remember you
+[02:45.68] RISE
+[02:48.96] Prove yourself and
+[02:57.96] 
+[02:50.95] RISE, RISE
+[02:53.23] (Pick up your weapon and face it)
+[02:55.94] RISE
+[02:58.60] (It's deep in your blood, go and take it)
+[03:01.88] RISE, RISE
+[03:04.64] (Higher and higher you chase it)
+[03:07.19] RISE
+[03:12.43] RISE, RISE
+```
